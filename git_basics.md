@@ -1,0 +1,2 @@
+- auf github.com eine "New repository" erstellt
+- auf dem Namen "IN250_DakiRinor_Docs"
